@@ -1,0 +1,396 @@
+**********EVENT INFO*********
+0
+Name of the Venue: Resorts World Arena
+Venue Location: Birmingham
+Date of the Event: 2019-03-28T00:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-01T00:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-02T00:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-04T00:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-04-05T00:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-08T00:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-09T00:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-11T19:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-15T18:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-16T18:30:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: SPORTPALEIS
+Venue Location: Merksem
+Date of the Event: 2019-04-19T18:30:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Encore Theater at Wynn Las Vegas
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Cidade do Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
+*****************************
+**********SONG INFO*********
+0
+song name: Satisfied
+preview song: https://p.scdn.co/mp3-preview/db81cf015b93a5bd6569d181afa5bca2ac21119e?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Hamilton (Original Broadway Cast Recording)
+artist(s): Renée Elise Goldsberry
+*****************************
+**********SONG INFO*********
+1
+song name: Satisfied (feat. MAX)
+preview song: https://p.scdn.co/mp3-preview/3678e4ba0eb8113d4251a3df6821560c82f20c4b?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfied (feat. MAX) / Mama Look At Me Now
+artist(s): Galantis
+*****************************
+**********SONG INFO*********
+2
+song name: Satisfied
+preview song: https://p.scdn.co/mp3-preview/7624f0fe680e33f628bd5ef7296607cd3f76d016?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Science
+artist(s): Robotaki
+*****************************
+**********SONG INFO*********
+3
+song name: Are You Satisfied?
+preview song: https://p.scdn.co/mp3-preview/ff52aaa6fba71a2df704758a260e1da2accd587d?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Family Jewels
+artist(s): MARINA
+*****************************
+**********SONG INFO*********
+4
+song name: Satisfied in You (Psalm 42)
+preview song: https://p.scdn.co/mp3-preview/a4c99143f63e937f7e2ad3b5a82cd0604a383e22?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Oh! Great Is Our God!
+artist(s): The Sing Team
+*****************************
+**********SONG INFO*********
+5
+song name: Satisfied
+preview song: https://p.scdn.co/mp3-preview/c44ac33b5a222cefbc71935daaab7e0b9a300884?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfied
+artist(s): Cyrus Yung
+*****************************
+**********SONG INFO*********
+6
+song name: Mama Look At Me Now
+preview song: https://p.scdn.co/mp3-preview/c03e260a9a44fe375da9977a29399e42cc83c18e?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfied (feat. MAX) / Mama Look At Me Now
+artist(s): Galantis
+*****************************
+**********SONG INFO*********
+7
+song name: Satisfied
+preview song: https://p.scdn.co/mp3-preview/1c6c4b70e0d48b152e42632e8384100afd4cb772?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfied
+artist(s): KLOUD
+*****************************
+**********SONG INFO*********
+8
+song name: Feelin' Satisfied
+preview song: https://p.scdn.co/mp3-preview/a21e5295c0dd1330917e117c8b866f8e0427d791?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Don't Look Back
+artist(s): Boston
+*****************************
+**********SONG INFO*********
+9
+song name: Satisfied
+preview song: null
+album: Holy Roar
+artist(s): Chris Tomlin
+*****************************
+**********SONG INFO*********
+10
+song name: Satisfied Mind
+preview song: https://p.scdn.co/mp3-preview/38e909bc9f6d75690b66effdc2fff1b7f6e7eff5?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sketches for My Sweetheart The Drunk
+artist(s): Jeff Buckley
+*****************************
+**********SONG INFO*********
+11
+song name: Satisfied (feat. Miguel & Queen Latifah)
+preview song: https://p.scdn.co/mp3-preview/026271102c9efd63b1d42345cf978827649dc8f8?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfied (feat. Miguel & Queen Latifah) [from The Hamilton Mixtape]
+artist(s): Sia
+*****************************
+**********SONG INFO*********
+12
+song name: Satisfied (feat. Miguel & Queen Latifah)
+preview song: https://p.scdn.co/mp3-preview/6848f1f3e87f2a97ce70ce44ddd5829ef22ec1a6?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Hamilton Mixtape
+artist(s): Sia
+*****************************
+**********SONG INFO*********
+13
+song name: Satisfied
+preview song: https://p.scdn.co/mp3-preview/ed433ad42d216b32247aa43c5e05961afb73ff31?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfied
+artist(s): Jordan Solomon
+*****************************
+**********SONG INFO*********
+14
+song name: Satisfied
+preview song: null
+album: Stop The World
+artist(s): Aranda
+*****************************
+**********SONG INFO*********
+15
+song name: Never Satisfied
+preview song: https://p.scdn.co/mp3-preview/06502df4788bd459dc8c97e61fea97258606433e?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Honest
+artist(s): Future
+*****************************
+**********SONG INFO*********
+16
+song name: Are You Satisfied?
+preview song: https://p.scdn.co/mp3-preview/364e1663203121d216037820223333576dde7f7b?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Are You Satisfied?
+artist(s): Reignwolf
+*****************************
+**********SONG INFO*********
+17
+song name: Satisfied Mind
+preview song: null
+album: American VI: Ain't No Grave
+artist(s): Johnny Cash
+*****************************
+**********SONG INFO*********
+18
+song name: Keep the Customer Satisfied
+preview song: https://p.scdn.co/mp3-preview/148e0ebee999fa316876e93515363f0f9267a342?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Bridge Over Troubled Water
+artist(s): Simon & Garfunkel
+*****************************
+**********SONG INFO*********
+19
+song name: Satisfied
+preview song: https://p.scdn.co/mp3-preview/db81cf015b93a5bd6569d181afa5bca2ac21119e?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Hamilton (Original Broadway Cast Recording)
+artist(s): Renée Elise Goldsberry
+*****************************
+**********MOVIE INFO*********
+Title: Dracula
+Release Year: 1931
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 91%
+Country of Production: USA
+Language: English, Hungarian, Latin
+Plot: The ancient vampire Count Dracula arrives in England and begins to prey upon the virtuous young Mina.
+Actors: Bela Lugosi, Helen Chandler, David Manners, Dwight Frye
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+15
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: #90s Update
+artist(s): #90s Update
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: null
+album: Cruel Intentions: The '90s Musical
+artist(s): Alex Boniello
+*****************************
+**********MOVIE INFO*********
+Title: Dracula
+Release Year: 1931
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 91%
+Country of Production: USA
+Language: English, Hungarian, Latin
+Plot: The ancient vampire Count Dracula arrives in England and begins to prey upon the virtuous young Mina.
+Actors: Bela Lugosi, Helen Chandler, David Manners, Dwight Frye
+*****************************
