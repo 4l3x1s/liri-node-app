@@ -1,238 +1,625 @@
 **********EVENT INFO*********
 0
-Name of the Venue: Resorts World Arena
-Venue Location: Birmingham
-Date of the Event: 2019-03-28T00:00:00
-*****************************
-**********EVENT INFO*********
-1
 Name of the Venue: The O2 Arena
 Venue Location: London
 Date of the Event: 2019-04-01T00:00:00
 *****************************
 **********EVENT INFO*********
-2
+1
 Name of the Venue: The O2 Arena
 Venue Location: London
 Date of the Event: 2019-04-02T00:00:00
 *****************************
 **********EVENT INFO*********
-3
+2
 Name of the Venue: The O2 Arena
 Venue Location: London
 Date of the Event: 2019-04-04T00:00:00
 *****************************
 **********EVENT INFO*********
-4
+3
 Name of the Venue: The O2
 Venue Location: London
 Date of the Event: 2019-04-05T00:00:00
 *****************************
 **********EVENT INFO*********
-5
+4
 Name of the Venue: The O2 Arena
 Venue Location: London
 Date of the Event: 2019-04-08T00:00:00
 *****************************
 **********EVENT INFO*********
-6
+5
 Name of the Venue: The O2 Arena
 Venue Location: London
 Date of the Event: 2019-04-09T00:00:00
 *****************************
 **********EVENT INFO*********
-7
+6
 Name of the Venue: The O2 Arena
 Venue Location: London
 Date of the Event: 2019-04-11T19:00:00
 *****************************
 **********EVENT INFO*********
-8
+7
 Name of the Venue: Ziggo Dome
 Venue Location: Amsterdam
 Date of the Event: 2019-04-15T18:30:00
 *****************************
 **********EVENT INFO*********
-9
+8
 Name of the Venue: Ziggo Dome
 Venue Location: Amsterdam
 Date of the Event: 2019-04-16T18:30:00
 *****************************
 **********EVENT INFO*********
-10
+9
 Name of the Venue: SPORTPALEIS
 Venue Location: Merksem
 Date of the Event: 2019-04-19T18:30:00
 *****************************
 **********EVENT INFO*********
-11
+10
 Name of the Venue: Ziggo Dome
 Venue Location: Amsterdam
 Date of the Event: 2019-04-25T18:30:00
 *****************************
 **********EVENT INFO*********
-12
+11
 Name of the Venue: Ziggo Dome
 Venue Location: Amsterdam
 Date of the Event: 2019-04-26T18:30:00
 *****************************
 **********EVENT INFO*********
-13
+12
 Name of the Venue: Encore Theater at Wynn Las Vegas
 Venue Location: Las Vegas
 Date of the Event: 2019-05-04T22:00:00
 *****************************
 **********EVENT INFO*********
-14
+13
 Name of the Venue: XS Nightclub
 Venue Location: Las Vegas
 Date of the Event: 2019-05-18T22:00:00
 *****************************
 **********EVENT INFO*********
-15
+14
 Name of the Venue: Cidade do Rock
 Venue Location: Rio De Janeiro
 Date of the Event: 2019-09-27T19:00:00
 *****************************
 **********SONG INFO*********
 0
-song name: Satisfied
-preview song: https://p.scdn.co/mp3-preview/db81cf015b93a5bd6569d181afa5bca2ac21119e?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Hamilton (Original Broadway Cast Recording)
-artist(s): Renée Elise Goldsberry
+song name: (I Can't Get No) Satisfaction - Mono Version
+preview song: null
+album: Out Of Our Heads
+artist(s): The Rolling Stones
 *****************************
 **********SONG INFO*********
 1
-song name: Satisfied (feat. MAX)
-preview song: https://p.scdn.co/mp3-preview/3678e4ba0eb8113d4251a3df6821560c82f20c4b?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Satisfied (feat. MAX) / Mama Look At Me Now
-artist(s): Galantis
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/12592172485a5e3ad56c0a86ad82f49709caebf6?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Hypnotica
+artist(s): Benny Benassi
 *****************************
 **********SONG INFO*********
 2
-song name: Satisfied
-preview song: https://p.scdn.co/mp3-preview/7624f0fe680e33f628bd5ef7296607cd3f76d016?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Science
-artist(s): Robotaki
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/a755322d8c52ca27435fc1e9351613175cc5690a?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Icarus Falls
+artist(s): ZAYN
 *****************************
 **********SONG INFO*********
 3
-song name: Are You Satisfied?
-preview song: https://p.scdn.co/mp3-preview/ff52aaa6fba71a2df704758a260e1da2accd587d?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: The Family Jewels
-artist(s): MARINA
+song name: (I Can't Get No) Satisfaction - Mono Version
+preview song: null
+album: Hot Rocks (1964-1971)
+artist(s): The Rolling Stones
 *****************************
 **********SONG INFO*********
 4
-song name: Satisfied in You (Psalm 42)
-preview song: https://p.scdn.co/mp3-preview/a4c99143f63e937f7e2ad3b5a82cd0604a383e22?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Oh! Great Is Our God!
-artist(s): The Sing Team
+song name: Bling Bling
+preview song: https://p.scdn.co/mp3-preview/28833d670ccc997607e8173e4f3f1c4bd285f159?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfaction Guaranteed
+artist(s): Junglepussy
 *****************************
 **********SONG INFO*********
 5
-song name: Satisfied
-preview song: https://p.scdn.co/mp3-preview/c44ac33b5a222cefbc71935daaab7e0b9a300884?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Satisfied
-artist(s): Cyrus Yung
+song name: (I Can't Get No) Satisfaction
+preview song: https://p.scdn.co/mp3-preview/4ebfbe03aebd76dc06a6694a3f78c8b71b2672e4?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Q: Are We Not Men? A: We Are Devo!
+artist(s): DEVO
 *****************************
 **********SONG INFO*********
 6
-song name: Mama Look At Me Now
-preview song: https://p.scdn.co/mp3-preview/c03e260a9a44fe375da9977a29399e42cc83c18e?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Satisfied (feat. MAX) / Mama Look At Me Now
-artist(s): Galantis
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/2e91dd73a7e8b03d215e3e62edc2c7c9a9082253?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Mr Satisfaction (1966-1976)
+artist(s): Carl Dawkins
 *****************************
 **********SONG INFO*********
 7
-song name: Satisfied
-preview song: https://p.scdn.co/mp3-preview/1c6c4b70e0d48b152e42632e8384100afd4cb772?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Satisfied
-artist(s): KLOUD
+song name: Satisfaction
+preview song: null
+album: Eve-Olution
+artist(s): Eve
 *****************************
 **********SONG INFO*********
 8
-song name: Feelin' Satisfied
-preview song: https://p.scdn.co/mp3-preview/a21e5295c0dd1330917e117c8b866f8e0427d791?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Don't Look Back
-artist(s): Boston
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/f68fcdf1de708bf2dde038173781729dd7779e11?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Very Best Of Otis Redding
+artist(s): Otis Redding
 *****************************
 **********SONG INFO*********
 9
-song name: Satisfied
-preview song: null
-album: Holy Roar
-artist(s): Chris Tomlin
+song name: Satisfaction - RL Grime Remix
+preview song: https://p.scdn.co/mp3-preview/0b3a5e0796af8da8fd66fd6d47bbcc84bdbb1b11?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfaction (RL Grime Remix)
+artist(s): Benny Benassi
 *****************************
 **********SONG INFO*********
 10
-song name: Satisfied Mind
-preview song: https://p.scdn.co/mp3-preview/38e909bc9f6d75690b66effdc2fff1b7f6e7eff5?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Sketches for My Sweetheart The Drunk
-artist(s): Jeff Buckley
+song name: (I Can’t Get No) Satisfaction
+preview song: https://p.scdn.co/mp3-preview/06634005bcc39fa680d491ab538b69109f617b6d?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Live in SiriusXM Studios
+artist(s): The Blue Stones
 *****************************
 **********SONG INFO*********
 11
-song name: Satisfied (feat. Miguel & Queen Latifah)
-preview song: https://p.scdn.co/mp3-preview/026271102c9efd63b1d42345cf978827649dc8f8?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Satisfied (feat. Miguel & Queen Latifah) [from The Hamilton Mixtape]
-artist(s): Sia
+song name: (I Can't Get No) Satisfaction
+preview song: https://p.scdn.co/mp3-preview/08d244e4fa2a896e4763437143be514807d20923?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Covers Record
+artist(s): Cat Power
 *****************************
 **********SONG INFO*********
 12
-song name: Satisfied (feat. Miguel & Queen Latifah)
-preview song: https://p.scdn.co/mp3-preview/6848f1f3e87f2a97ce70ce44ddd5829ef22ec1a6?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: The Hamilton Mixtape
-artist(s): Sia
+song name: (I Can't Get No) Satisfaction - (Original Single Mono Version)
+preview song: null
+album: Singles 1965-1967
+artist(s): The Rolling Stones
 *****************************
 **********SONG INFO*********
 13
-song name: Satisfied
-preview song: https://p.scdn.co/mp3-preview/ed433ad42d216b32247aa43c5e05961afb73ff31?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Satisfied
-artist(s): Jordan Solomon
+song name: (I Can't Get No) Satisfaction
+preview song: https://p.scdn.co/mp3-preview/9fd1ec8fe6b0efbee7d3d0427c2c785adde0d7a3?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Oops!... I Did It Again
+artist(s): Britney Spears
 *****************************
 **********SONG INFO*********
 14
-song name: Satisfied
-preview song: null
-album: Stop The World
-artist(s): Aranda
+song name: No Satisfaction
+preview song: https://p.scdn.co/mp3-preview/92a2dd4631bc323f4065b79cef8e1906aefaab4a?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: No Satisfaction
+artist(s): Rockie Fresh
 *****************************
 **********SONG INFO*********
 15
-song name: Never Satisfied
-preview song: https://p.scdn.co/mp3-preview/06502df4788bd459dc8c97e61fea97258606433e?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Honest
-artist(s): Future
+song name: Satisfaction Guaranteed
+preview song: https://p.scdn.co/mp3-preview/04e76b6d7f7a49a643ad4d9b009a5bd47ffe0d6b?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Firm
+artist(s): The Firm
 *****************************
 **********SONG INFO*********
 16
-song name: Are You Satisfied?
-preview song: https://p.scdn.co/mp3-preview/364e1663203121d216037820223333576dde7f7b?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Are You Satisfied?
-artist(s): Reignwolf
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/af59ef7cd38311f45c9d0aeae28987c5ed0ae5cc?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Allen Stone
+artist(s): Allen Stone
 *****************************
 **********SONG INFO*********
 17
-song name: Satisfied Mind
-preview song: null
-album: American VI: Ain't No Grave
-artist(s): Johnny Cash
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/8c6cd0a9365207a7521695b0f88d766750951403?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Evolver
+artist(s): John Legend
 *****************************
 **********SONG INFO*********
 18
-song name: Keep the Customer Satisfied
-preview song: https://p.scdn.co/mp3-preview/148e0ebee999fa316876e93515363f0f9267a342?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Bridge Over Troubled Water
-artist(s): Simon & Garfunkel
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/6bac825e44ecff30cc0ace80917f94203258eac3?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Hardcore Volume 1
+artist(s): DEVO
 *****************************
 **********SONG INFO*********
 19
-song name: Satisfied
-preview song: https://p.scdn.co/mp3-preview/db81cf015b93a5bd6569d181afa5bca2ac21119e?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Hamilton (Original Broadway Cast Recording)
-artist(s): Renée Elise Goldsberry
+song name: Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz
+preview song: https://p.scdn.co/mp3-preview/5919d426d22c96d45b00bc704c6956b773fc837b?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Hypnotica (Benny Benassi Presents The Biz)
+artist(s): Benny Benassi
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+3
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+4
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+5
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+6
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+7
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+8
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+9
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+10
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+11
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+12
+song name: Girl's Best Friend (feat. Ty Dolla $ign)
+preview song: null
+album: Rap Or Go To The League
+artist(s): 2 Chainz
+*****************************
+**********SONG INFO*********
+13
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+14
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+15
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: A Rush Of Blood To The Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+17
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+18
+song name: The Other Side (with MAX & Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/a3c926a4a3a8876a61b09cd54ea343e876092321?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Greatest Showman: Reimagined
+artist(s): MAX
+*****************************
+**********SONG INFO*********
+19
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********MOVIE INFO*********
+Title: Dracula
+Release Year: 1931
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 91%
+Country of Production: USA
+Language: English, Hungarian, Latin
+Plot: The ancient vampire Count Dracula arrives in England and begins to prey upon the virtuous young Mina.
+Actors: Bela Lugosi, Helen Chandler, David Manners, Dwight Frye
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+2
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+3
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+4
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Greatest Hits
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+5
+song name: Bellas Regionals: The Sign/Eternal Flame/Turn The Beat Around
+preview song: null
+album: Ultimate Pitch Perfect (Original Motion Picture Soundtrack)
+artist(s): The Barden Bellas
+*****************************
+**********SONG INFO*********
+6
+song name: Don't Turn Around
+preview song: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+7
+song name: At the Sign of the Prancing Pony
+preview song: https://p.scdn.co/mp3-preview/eae41f6660ac333b9b93a95bfe14cc5bb4aa78c9?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Lord Of The Rings: The Fellowship Of The Ring (Original Motion Picture Soundtrack)
+artist(s): Howard Shore
+*****************************
+**********SONG INFO*********
+8
+song name: The Sign (feat. Pase Rock)
+preview song: https://p.scdn.co/mp3-preview/3e8b1159ba140a96d433d01a13730813d0cd7deb?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Modal Soul
+artist(s): Nujabes
+*****************************
+**********SONG INFO*********
+9
+song name: Sign 'O' The Times
+preview song: https://p.scdn.co/mp3-preview/22ae04b86d328e39109a91524c1cc35bc81ff0f9?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+10
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/c2eb7d777eba31c9bd9971061b567acde4d937c4?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign
+artist(s): R.I.O.
+*****************************
+**********SONG INFO*********
+11
+song name: Sign Of The Times - Spotify Studios NYC
+preview song: null
+album: Spotify Singles
+artist(s): LANY
+*****************************
+**********SONG INFO*********
+12
+song name: Adore
+preview song: https://p.scdn.co/mp3-preview/a0ffdf9e434893d3832d60b41996106e85b709ac?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+13
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/547f1695e87f17b0b8deb67634d4ccadb75d22ae?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign of the Times
+artist(s): Jasmine Thompson
+*****************************
+**********SONG INFO*********
+14
+song name: The Sign of the Southern Cross - Remastered Version
+preview song: https://p.scdn.co/mp3-preview/8253e50eb6d3a0a4a59fa0a64c4b05d2426e0324?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Mob Rules (Remastered Edition)
+artist(s): Black Sabbath
+*****************************
+**********SONG INFO*********
+15
+song name: Sign Of The Gypsy Queen
+preview song: null
+album: Nature Of The Beast
+artist(s): April Wine
+*****************************
+**********SONG INFO*********
+16
+song name: U Got The Look
+preview song: https://p.scdn.co/mp3-preview/99012a75bc37d984b4a5ebb3d7ce55371356187f?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+17
+song name: If I Was Your Girlfriend
+preview song: https://p.scdn.co/mp3-preview/2a4da6ba8ebd0065c27bf11748ec43449cde5e9c?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+18
+song name: Sign Of The Times
+preview song: https://p.scdn.co/mp3-preview/fd2eb2db08bd0fa564a8af43173be8db3969ce6c?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Transit Of Venus
+artist(s): Three Days Grace
+*****************************
+**********SONG INFO*********
+19
+song name: Starfish And Coffee
+preview song: https://p.scdn.co/mp3-preview/68ee67e8a2fa6ed937e39d7a73325326779c846c?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-01T00:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-02T00:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-04T00:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2019-04-05T00:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-08T00:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-09T00:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: The O2 Arena
+Venue Location: London
+Date of the Event: 2019-04-11T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-15T18:30:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-16T18:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: SPORTPALEIS
+Venue Location: Merksem
+Date of the Event: 2019-04-19T18:30:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-25T18:30:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-04-26T18:30:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Encore Theater at Wynn Las Vegas
+Venue Location: Las Vegas
+Date of the Event: 2019-05-04T22:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-05-18T22:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Cidade do Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 2019-09-27T19:00:00
 *****************************
 **********MOVIE INFO*********
 Title: Dracula
@@ -246,151 +633,281 @@ Actors: Bela Lugosi, Helen Chandler, David Manners, Dwight Frye
 *****************************
 **********SONG INFO*********
 0
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: The Hits--Chapter One
-artist(s): Backstreet Boys
+song name: (I Can't Get No) Satisfaction - Mono Version
+preview song: null
+album: Out Of Our Heads
+artist(s): The Rolling Stones
 *****************************
 **********SONG INFO*********
 1
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Millennium
-artist(s): Backstreet Boys
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/12592172485a5e3ad56c0a86ad82f49709caebf6?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Hypnotica
+artist(s): Benny Benassi
 *****************************
 **********SONG INFO*********
 2
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Covers Part IV
-artist(s): Anthem Lights
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/a755322d8c52ca27435fc1e9351613175cc5690a?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Icarus Falls
+artist(s): ZAYN
 *****************************
 **********SONG INFO*********
 3
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Beautiful Dreams
-artist(s): Tyler and Mark
+song name: (I Can't Get No) Satisfaction - Mono Version
+preview song: null
+album: Hot Rocks (1964-1971)
+artist(s): The Rolling Stones
 *****************************
 **********SONG INFO*********
 4
-song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Poodle Hat
-artist(s): "Weird Al" Yankovic
+song name: Bling Bling
+preview song: https://p.scdn.co/mp3-preview/28833d670ccc997607e8173e4f3f1c4bd285f159?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfaction Guaranteed
+artist(s): Junglepussy
 *****************************
 **********SONG INFO*********
 5
-song name: I Want It That Way
-preview song: null
-album: Punk Goes Pop
-artist(s): Dynamite Boy
+song name: (I Can't Get No) Satisfaction
+preview song: https://p.scdn.co/mp3-preview/4ebfbe03aebd76dc06a6694a3f78c8b71b2672e4?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Q: Are We Not Men? A: We Are Devo!
+artist(s): DEVO
 *****************************
 **********SONG INFO*********
 6
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: 90 Sweet 90s Hits!
-artist(s): Backstreet Boys
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/2e91dd73a7e8b03d215e3e62edc2c7c9a9082253?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Mr Satisfaction (1966-1976)
+artist(s): Carl Dawkins
 *****************************
 **********SONG INFO*********
 7
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: NKOTBSB
-artist(s): Backstreet Boys
+song name: Satisfaction
+preview song: null
+album: Eve-Olution
+artist(s): Eve
 *****************************
 **********SONG INFO*********
 8
-song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-artist(s): Glee Cast
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/f68fcdf1de708bf2dde038173781729dd7779e11?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Very Best Of Otis Redding
+artist(s): Otis Redding
 *****************************
 **********SONG INFO*********
 9
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Cover Sessions, Vol. 2
-artist(s): Boyce Avenue
+song name: Satisfaction - RL Grime Remix
+preview song: https://p.scdn.co/mp3-preview/0b3a5e0796af8da8fd66fd6d47bbcc84bdbb1b11?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Satisfaction (RL Grime Remix)
+artist(s): Benny Benassi
 *****************************
 **********SONG INFO*********
 10
-song name: I Want It That Way
-preview song: null
-album: I Want It That Way
-artist(s): Steel Panther
+song name: (I Can’t Get No) Satisfaction
+preview song: https://p.scdn.co/mp3-preview/06634005bcc39fa680d491ab538b69109f617b6d?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Live in SiriusXM Studios
+artist(s): The Blue Stones
 *****************************
 **********SONG INFO*********
 11
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: I Want It That Way
-artist(s): Manuel Costa
+song name: (I Can't Get No) Satisfaction
+preview song: https://p.scdn.co/mp3-preview/08d244e4fa2a896e4763437143be514807d20923?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Covers Record
+artist(s): Cat Power
 *****************************
 **********SONG INFO*********
 12
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Ballads in Bossa (The Colors of Love Ballads)
-artist(s): Marcelo Rezende
+song name: (I Can't Get No) Satisfaction - (Original Single Mono Version)
+preview song: null
+album: Singles 1965-1967
+artist(s): The Rolling Stones
 *****************************
 **********SONG INFO*********
 13
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Nu Funk
-artist(s): Scary Pockets
+song name: (I Can't Get No) Satisfaction
+preview song: https://p.scdn.co/mp3-preview/9fd1ec8fe6b0efbee7d3d0427c2c785adde0d7a3?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Oops!... I Did It Again
+artist(s): Britney Spears
 *****************************
 **********SONG INFO*********
 14
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: Selfies on Kodachrome
-artist(s): Scott Bradlee's Postmodern Jukebox
+song name: Satisfaction Guaranteed
+preview song: https://p.scdn.co/mp3-preview/04e76b6d7f7a49a643ad4d9b009a5bd47ffe0d6b?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Firm
+artist(s): The Firm
 *****************************
 **********SONG INFO*********
 15
-song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: The Essential "Weird Al" Yankovic
-artist(s): "Weird Al" Yankovic
+song name: No Satisfaction
+preview song: https://p.scdn.co/mp3-preview/92a2dd4631bc323f4065b79cef8e1906aefaab4a?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: No Satisfaction
+artist(s): Rockie Fresh
 *****************************
 **********SONG INFO*********
 16
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: NOW That's What I Call 90s Pop
-artist(s): Backstreet Boys
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/af59ef7cd38311f45c9d0aeae28987c5ed0ae5cc?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Allen Stone
+artist(s): Allen Stone
 *****************************
 **********SONG INFO*********
 17
-song name: I Want It That Way
-preview song: null
-album: Kidz Bop
-artist(s): Kidz Bop Kids
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/8c6cd0a9365207a7521695b0f88d766750951403?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Evolver
+artist(s): John Legend
 *****************************
 **********SONG INFO*********
 18
-song name: I Want It That Way
-preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=0ebd00429d724fb89f1cb4d847e2112e
-album: #90s Update
-artist(s): #90s Update
+song name: Satisfaction
+preview song: https://p.scdn.co/mp3-preview/6bac825e44ecff30cc0ace80917f94203258eac3?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Hardcore Volume 1
+artist(s): DEVO
 *****************************
 **********SONG INFO*********
 19
-song name: I Want It That Way
-preview song: null
-album: Cruel Intentions: The '90s Musical
-artist(s): Alex Boniello
+song name: Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz
+preview song: https://p.scdn.co/mp3-preview/5919d426d22c96d45b00bc704c6956b773fc837b?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Hypnotica (Benny Benassi Presents The Biz)
+artist(s): Benny Benassi
 *****************************
-**********MOVIE INFO*********
-Title: Dracula
-Release Year: 1931
-IMDB Rating: 7.6
-Rotten Tomatoes Rating: 91%
-Country of Production: USA
-Language: English, Hungarian, Latin
-Plot: The ancient vampire Count Dracula arrives in England and begins to prey upon the virtuous young Mina.
-Actors: Bela Lugosi, Helen Chandler, David Manners, Dwight Frye
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+2
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+3
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+4
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Greatest Hits
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+5
+song name: Don't Turn Around
+preview song: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Bellas Regionals: The Sign/Eternal Flame/Turn The Beat Around
+preview song: null
+album: Ultimate Pitch Perfect (Original Motion Picture Soundtrack)
+artist(s): The Barden Bellas
+*****************************
+**********SONG INFO*********
+7
+song name: At the Sign of the Prancing Pony
+preview song: https://p.scdn.co/mp3-preview/eae41f6660ac333b9b93a95bfe14cc5bb4aa78c9?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Lord Of The Rings: The Fellowship Of The Ring (Original Motion Picture Soundtrack)
+artist(s): Howard Shore
+*****************************
+**********SONG INFO*********
+8
+song name: The Sign (feat. Pase Rock)
+preview song: https://p.scdn.co/mp3-preview/3e8b1159ba140a96d433d01a13730813d0cd7deb?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Modal Soul
+artist(s): Nujabes
+*****************************
+**********SONG INFO*********
+9
+song name: Sign 'O' The Times
+preview song: https://p.scdn.co/mp3-preview/22ae04b86d328e39109a91524c1cc35bc81ff0f9?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+10
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/c2eb7d777eba31c9bd9971061b567acde4d937c4?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: The Sign
+artist(s): R.I.O.
+*****************************
+**********SONG INFO*********
+11
+song name: Sign Of The Times - Spotify Studios NYC
+preview song: null
+album: Spotify Singles
+artist(s): LANY
+*****************************
+**********SONG INFO*********
+12
+song name: Adore
+preview song: https://p.scdn.co/mp3-preview/a0ffdf9e434893d3832d60b41996106e85b709ac?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+13
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/547f1695e87f17b0b8deb67634d4ccadb75d22ae?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign of the Times
+artist(s): Jasmine Thompson
+*****************************
+**********SONG INFO*********
+14
+song name: The Sign of the Southern Cross - Remastered Version
+preview song: https://p.scdn.co/mp3-preview/8253e50eb6d3a0a4a59fa0a64c4b05d2426e0324?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Mob Rules (Remastered Edition)
+artist(s): Black Sabbath
+*****************************
+**********SONG INFO*********
+15
+song name: Sign Of The Gypsy Queen
+preview song: null
+album: Nature Of The Beast
+artist(s): April Wine
+*****************************
+**********SONG INFO*********
+16
+song name: U Got The Look
+preview song: https://p.scdn.co/mp3-preview/99012a75bc37d984b4a5ebb3d7ce55371356187f?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+17
+song name: If I Was Your Girlfriend
+preview song: https://p.scdn.co/mp3-preview/2a4da6ba8ebd0065c27bf11748ec43449cde5e9c?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+18
+song name: Sign Of The Times
+preview song: https://p.scdn.co/mp3-preview/fd2eb2db08bd0fa564a8af43173be8db3969ce6c?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Transit Of Venus
+artist(s): Three Days Grace
+*****************************
+**********SONG INFO*********
+19
+song name: Starfish And Coffee
+preview song: https://p.scdn.co/mp3-preview/68ee67e8a2fa6ed937e39d7a73325326779c846c?cid=0ebd00429d724fb89f1cb4d847e2112e
+album: Sign 'O' The Times
+artist(s): Prince
 *****************************
